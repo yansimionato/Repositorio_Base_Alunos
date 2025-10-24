@@ -1,0 +1,5 @@
+nome,idade,curso
+Maria,30,Python
+João,25,Data Science
+"['nome', 'idade', 'curso']","['Maria', 30, 'Python']","['João', 25, 'Data Science']"
+Fernando,27,Banco de Dados
